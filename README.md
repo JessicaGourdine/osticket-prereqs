@@ -99,6 +99,7 @@ Check Internet Information Services box and expand. Check Web Management Tools b
 <p>16. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”</p>
 <p>17. Open IIS, stop and restart the server</p>
 <img width="690" alt="osTicket_Restart1" src="https://github.com/user-attachments/assets/ea347c19-6e3b-4bcd-8341-35386050894e">
+<p>
 <p> 18. Go to sites > Default Website > osTicket. On the right, click "Browse *.80"</p>
 <img width="627" alt="osTicket_Browse 80" src="https://github.com/user-attachments/assets/0407e08a-cb79-4c88-978f-ab137bee8e9f">
 <h3>Enable Extensions</h3>
