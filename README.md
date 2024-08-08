@@ -48,7 +48,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <br />
-3. Open this: https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 We'll use thes files to osTicket and some of the dependencies. 
+3. Open this: https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 We'll use these files to osTicket and some of the dependencies. 
 <p>
 <p>4. In the Azure portal, go to your virtual machine, locate and copy the VM's public IP address.</p>
 <img width="640" alt="osTicket_Public IP" src="https://github.com/user-attachments/assets/59554b13-a073-4d36-8494-4d224db88880">
