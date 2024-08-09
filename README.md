@@ -141,6 +141,8 @@ Check Internet Information Services box and expand. Check Web Management Tools b
 <p>Click “Install Now!”<p>
 <img width="570" alt="osTicket_InstallNow" src="https://github.com/user-attachments/assets/9618d443-b4bc-427d-8b51-178118f058f1">
 <h2>Congratulations, you installed osTicket!</h2>
+  <img width="577" alt="osTicket_Congrats" src="https://github.com/user-attachments/assets/3e17e6f1-74c8-44fc-91c4-823e060b288e">
+
 <p>Browse to your help desk login page: http://localhost/osTicket/scp/login.php<p>
 
 <p>End Users osTicket URL:
